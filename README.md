@@ -7,8 +7,6 @@ A Vanilla JavaScript, HTML, and CSS Project.
 1. About the project
 2. Technologies Used
 3. Getting Started
-4. Usage
-5. Roadmap
 
 ## About the Project
 
@@ -19,3 +17,8 @@ This project is an exercise in the Frontend Masters Course, "Intro to Web Develo
 - Html
 - CSS
 - JavaScript
+
+## Getting Started
+
+Clone this repo or click the GitHUb page link to use.
+
