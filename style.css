@@ -19,3 +19,14 @@ body {
     text-align: right;
     padding: 20px 5px;
 }
+
+.calc-button {
+    background-color: #d8d9d8;
+    color: black;
+    height: 100px;
+    width: 24.5%;
+    border: none;
+    border-radius: 0;
+    font-size: 40px;
+    cursor: pointer;
+}
