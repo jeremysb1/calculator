@@ -40,10 +40,15 @@ body {
 
 .calc-button:last-child {
     background-color: #df974c;
+    color: white;
 }
 
 .calc-button:last-child:hover {
     background-color: #dfb07e;
+}
+
+.calc-button:last-child:active {
+    background-color: #dd8db7;
 }
 
 .double {
