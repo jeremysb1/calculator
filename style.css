@@ -42,6 +42,10 @@ body {
     background-color: #df974c;
 }
 
+.calc-button:last-child:hover {
+    background-color: #dfb07e;
+}
+
 .double {
     width: 49.7%;
 }
