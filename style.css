@@ -45,3 +45,10 @@ body {
 .triple {
     width: 74.8%;
 }
+
+.calc-row {
+    display: flex;
+    align-content: stretch;
+    justify-content: space-between;
+    margin-bottom: .5%;
+}
