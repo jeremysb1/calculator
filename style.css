@@ -38,6 +38,10 @@ body {
     background-color: #bbbcbe;
 }
 
+.calc-button:last-child {
+    background-color: #df974c;
+}
+
 .double {
     width: 49.7%;
 }
