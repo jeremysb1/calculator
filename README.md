@@ -1,4 +1,4 @@
-# Calculator
+# Calculator in vanilla JavaScript
 
 A Vanilla JavaScript, HTML, and CSS Project.
 
